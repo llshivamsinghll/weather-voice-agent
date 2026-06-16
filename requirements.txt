@@ -1,8 +1,0 @@
-livekit==0.13.1
-livekit-agents==1.6.0
-livekit-plugins-groq==1.6.0
-livekit-plugins-deepgram==1.6.0
-livekit-plugins-silero==1.6.0
-livekit-plugins-cartesia==1.6.0
-python-dotenv==1.2.2
-requests==2.31.0
